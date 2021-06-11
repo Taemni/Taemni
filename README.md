@@ -1,16 +1,14 @@
-### Hi there 👋
+## Taemin Son
+👋 Hi! Welcome to my Github profile!
+- I take up coding as a hobby.
+- coding at a non professional/career level.
 
-<!--
-**Taemni/Taemni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m currently learning
+- PHP
+- HTML, CSS, Javascript
+- Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Frontend
+  - [SPACE*IZ](https://wiz-one.co.kr/) (Fan community of IZ\*ONE) since December 2019
+    - Main, Register, IZ\*Daily, IZ\*Work, IZ\*AIR, IZ\*Shop
