@@ -8,6 +8,10 @@
 - HTML, CSS, Javascript
 - Python
 
+### Interest
+- Full Stack Developer
+- IZ\*ONE
+
 ### Projects
 - Frontend
   - [SPACE*IZ](https://wiz-one.co.kr/) (Fan community of IZ\*ONE) since December 2019
