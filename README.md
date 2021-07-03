@@ -11,7 +11,6 @@
 ### Interest
 - Full Stack Developer
 - Record Broadcast
-- Extract App Data
 - IZ\*ONE
 
 ### Projects
