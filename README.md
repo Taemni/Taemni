@@ -16,4 +16,4 @@
 ### Projects
 - Frontend
   - [SPACE*IZ](https://wiz-one.co.kr/) (Fan community of IZ\*ONE) since December 2019
-    - Main, Register, IZ\*Daily, IZ\*Work, IZ\*AIR, IZ\*Shop
+  - [아이즈원케이알](https://iz-one.kr/) (Fan site of IZ\*ONE) since November 2019
