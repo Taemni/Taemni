@@ -15,5 +15,5 @@
 
 ### Projects
 - Frontend
-  - [SPACE*IZ](https://wiz-one.co.kr/) (Fan community of IZ\*ONE) since December 2019
+  - SPACE*IZ (Fan community of IZ\*ONE) since December 2019 (Closed)
   - [아이즈원케이알](https://iz-one.kr/) (Fan site of IZ\*ONE) since November 2019
