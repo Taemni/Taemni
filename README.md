@@ -11,7 +11,6 @@
 ### Interest
 - Full Stack Developer
 - Record Broadcast
-- IZ\*ONE
 
 ### Projects
 - Frontend
