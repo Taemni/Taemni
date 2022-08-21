@@ -15,4 +15,4 @@
 ### Projects
 - Frontend
   - SPACE*IZ (Fan community of IZ\*ONE) 2020.02.15~2021.12.31 (Closed)
-  - [아이즈원케이알](https://iz-one.kr/) (Fan site of IZ\*ONE) since November 2019
+  - 아이즈원케이알 (Fan site of IZ\*ONE) since November 2019
