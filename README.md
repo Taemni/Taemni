@@ -11,6 +11,8 @@
 ### Interest
 - Full Stack Developer
 - Record Broadcast
+- Network
+- NAS, Tvheadend
 
 ### Projects
 - Frontend
